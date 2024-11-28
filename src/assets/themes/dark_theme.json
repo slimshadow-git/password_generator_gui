@@ -1,0 +1,12 @@
+{
+    "background": "#333333",
+    "foreground": "#ffffff",
+    "buttonBackground": "#4CAF50",
+    "buttonForeground": "#ffffff",
+    "buttonActiveBackground": "#45a049",
+    "buttonActiveForeground": "#ffffff",
+    "entryBackground": "#444444",
+    "entryForeground": "#ffffff",
+    "labelBackground": "#333333",
+    "labelForeground": "#ffffff"
+}
